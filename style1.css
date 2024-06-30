@@ -1,0 +1,26 @@
+*{
+    background-color: bisque;
+
+}
+.pavan{
+    font-size: 20px;
+    color: brown;
+    
+}
+h2{
+    color: white;
+}
+h4{
+    font-size: 25px;
+}
+#hari{
+    font-size: 38px;
+    text-transform: capitalize;
+}
+.annu{
+    font-size: 30px;
+    text-align: center;
+
+    text-transform: capitalize;
+}
+
